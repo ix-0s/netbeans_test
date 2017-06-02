@@ -1,0 +1,6 @@
+  applications:
+   - name: TmdTestProject
+     random-route: true
+     path: target/TmdJavaEeTest-1.0.0-SNAPSHOT.war
+     memory: 512M
+     instances: 1
